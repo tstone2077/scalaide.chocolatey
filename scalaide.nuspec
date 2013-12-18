@@ -14,6 +14,7 @@ Now with a shiny Scala debugger, semantic highlight, more reliable JUnit test fi
     <tags>scalaide scala</tags>
     <copyright></copyright>
     <licenseUrl>http://scala-ide.org/docs/license.html</licenseUrl>
+    <iconUrl>https://raw.github.com/scala-ide/scala-ide/master/org.scala-ide.sdt.core/about.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
   </metadata>
   <files>
