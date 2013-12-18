@@ -9,6 +9,9 @@
     <summary>scalaide</summary>
     <description>Scala IDE provides advanced editing and debugging support for the development of pure Scala and mixed Scala-Java applications.
 Now with a shiny Scala debugger, semantic highlight, more reliable JUnit test finder, an ecosystem of related plugins, and much more.
+
+Note: Installation renames the default executables "eclipse.exe" and "eclipsec.exe" to "scalaide" and "scalaidec.exe" respectfully.
+Note: The source for the chocolatey install can be found here: https://github.com/tstone2077/scalaide.chocolatey
     </description>
     <projectUrl>http://scala-ide.org/index.html</projectUrl>
     <tags>scalaide scala</tags>
