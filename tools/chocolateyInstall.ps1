@@ -1,7 +1,7 @@
 ﻿#Import-Module Join-Path "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" "GenerateBinFile"
 $packageName = 'scalaide'
-$url = 'http://downloads.typesafe.com/scalaide-pack/3.0.3.vfinal-210-20140327/scala-SDK-3.0.3-2.10-win32.win32.x86.zip'
-$url64 = 'http://downloads.typesafe.com/scalaide-pack/3.0.3.vfinal-210-20140327/scala-SDK-3.0.3-2.10-win32.win32.x86_64.zip'
+$url = 'http://downloads.typesafe.com/scalaide-pack/4.0.0.vfinal-luna-211-20150305/scala-SDK-4.0.0-vfinal-2.11-win32.win32.x86.zip'
+$url64 = 'http://downloads.typesafe.com/scalaide-pack/4.0.0.vfinal-luna-211-20150305/scala-SDK-4.0.0-vfinal-2.11-win32.win32.x86_64.zip'
 
 # download and unpack a zip file
 # if removing $url64, please remove from here
